@@ -1,5 +1,8 @@
 # Senior-Design-Mini-Project
 
+**Before Starting**:
+After downloading the project, please run the command **cd ios/ && pod install** inside the Project file on the terminal. This will install all necessary pods and modules of this projects.
+
 Anika Sharma:
 
 For the mini-project, Xinyu and I met Monday evening to go over the project details together and split up the workload evenly.
@@ -16,3 +19,15 @@ The firebase project can be found at this link connected to my personal email (a
 (NO LONGER APPLICABLE)
 
 On **Friday, September 17**, Xinyu and I communicated and he decided to connect a firebase project under his email to the Barcode application. My main goal for the day is to implement the FDA API so that the app has access to the nutrition information. In order to get around the issue I was having with Android Studio yesterday, I will be working on the project that Xinyu started on his laptop to work on the barcode and google authentication and push my changes to the repository accordingly.
+
+Xinyu Liu
+
+On **Monday, September 13**, I set up the React-Native development environment on the macOS, and design the basic layout of my app.
+
+On **Tuesday, September 14**, I linked the React-Native-Camera into my app and successfully implemented the Camera on IOS and Android.
+
+On **Wednesday, September 15**, I used the React-Native-Camera to untilize the function of barcode reader and picrture taking for IOS and Android.
+
+On **Thursday, September 16**, I created a project on Google Cloud Platform and get the OAuth2.0 ID for Gmail login on IOS, and I also created a project of firebase and get the GoogleServiceInfo.plist and Web Client ID to allow users use their own Gmail to access our Firebase storage.
+
+On **Friday, September 17**, There still have some bugs on the Google signin function, and I also create a function of signout. I'll work with Anika to get the nutrition information of users's barcode or picture through the nutrition API. 
