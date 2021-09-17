@@ -1,7 +1,7 @@
 # Senior-Design-Mini-Project
 
 **Before Starting**:
-After downloading the project, please run the command **cd ios/ && pod install** inside the Project folder on the terminal. This will install all necessary pods and modules of this projects.
+After downloading the project, please run the command **npm audit fix ==> cd ios ==> pod install** inside the Project folder on the terminal. This will install all necessary pods and modules of this projects.
 
 Anika Sharma:
 
