@@ -10,4 +10,4 @@ Before we met on Monday, I played around with Android Studio and refamiliarized 
 
 On **Wednesday, September 15**, I completed both the REACT native tutorial on the official website and setup my Firebase.
 
-On **Thursday, September 16**, I created a project on Android Studio and began working on connecting the FDA API, Firebase, and using GITHUB secrets to store the API key.
+On **Thursday, September 16**, I created a project on Android Studio and began working on connecting the FDA API, Firebase, and using GITHUB secrets to store the API key. I saved the API key as a secret in the Github Repository. I had some difficulty creating a new project on my Firebase account with my school email, so I ended up using my personal email in order to create this new project.
