@@ -36,3 +36,5 @@ On **Wednesday, September 15**, I used the React-Native-Camera to untilize the f
 On **Thursday, September 16**, I created a project on Google Cloud Platform and get the OAuth2.0 ID for Gmail login on IOS, and I also created a project of firebase and get the GoogleServiceInfo.plist and Web Client ID to allow users use their own Gmail to access our Firebase storage.
 
 On **Friday, September 17**, There still have some bugs on the Google signin function, and I also create a function of signout. I'll work with Anika to get the nutrition information of users's barcode or picture through the nutrition API. 
+
+On **Saturday, September 18**, I created a app to intergrate with the firebase and let users to login and sign up with their email. I'm working on letting the users to add their data to the firebase. 
