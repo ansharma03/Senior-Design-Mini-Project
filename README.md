@@ -38,3 +38,5 @@ On **Thursday, September 16**, I created a project on Google Cloud Platform and 
 On **Friday, September 17**, There still have some bugs on the Google signin function, and I also create a function of signout. I'll work with Anika to get the nutrition information of users's barcode or picture through the nutrition API. 
 
 On **Saturday, September 18**, I created a app to intergrate with the firebase and let users to login and sign up with their email. I'm working on letting the users to add their data to the firebase. 
+
+On **Sunday, September 19**, I created a firebase real-time databaseI, and let user to sign up and log in through their email and password. After they login, they add data to the database and also can view their data from the databse. Since I almost run out of the time and some weird bugs, I can't integrate the barcodescanner with the firebase. Maybe I'll do this in the future. I also upload a short demo vedio of the firebase.  
